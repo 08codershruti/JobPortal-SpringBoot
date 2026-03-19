@@ -1,4 +1,4 @@
-package com.shruti.spring_boot_rest;
+package com.shruti.spring_boot_rest.controller;
 
 import com.shruti.spring_boot_rest.model.JobPost;
 import com.shruti.spring_boot_rest.service.JobService;
